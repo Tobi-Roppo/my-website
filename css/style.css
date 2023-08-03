@@ -26,6 +26,7 @@ body{
 #navbar ul{
     padding: 0;
     list-style: none;
+    float: right;
 }
 
 #navbar li{
